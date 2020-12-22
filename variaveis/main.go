@@ -68,4 +68,17 @@ func main()  {
 
 	 fmt.Println(nome2);
 	 fmt.Println(nomecompleto);
+
+	 fmt.Println("CONSTANTES");
+
+	 const pi = 3.14;
+
+	 fmt.Println(pi);
+
+	 const (
+		 primeiroNome = "Isabelly"
+		 segundoNome = "Dias"
+	 );
+
+	 fmt.Println(primeiroNome + " " + segundoNome);
 }
