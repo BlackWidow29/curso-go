@@ -61,4 +61,11 @@ func main()  {
 	 fmt.Println(sexo);
 	 fmt.Println(idade);
 
+	 fmt.Println("INFERENCIA DE TIPOS");
+
+	 var nome2 = "TreinaWeb";
+	 nomecompleto := "TreinaWeb cursos";
+
+	 fmt.Println(nome2);
+	 fmt.Println(nomecompleto);
 }
